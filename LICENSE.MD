@@ -1,3 +1,7 @@
+# LICENCIA
+
+## ORIGINAL
+
 Copyright (c) 2010 David Schoonover
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -17,3 +21,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+## NUEVA VERSIÓN
+Se respetan las condiciones y características de la versión original y no se
+agregan mejoras, restricciones ni objeciones a la misma.
+
+Igualmente se ofrece sin garantía y en los mismos términos al respecto que la
+licencia original
